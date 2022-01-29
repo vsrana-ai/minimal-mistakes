@@ -123,7 +123,7 @@ author:
 
     - label        : "Google Scholar"
       icon         : "fas fa-graduation-cap"
-      #icon         : "fas fa-googlescholar"
+      #icon        : "fas fa-googlescholar"
       url          : "https://scholar.google.com/citations?user=A6A4OKoAAAAJ&hl=en"
 
       # with their icons
@@ -173,7 +173,7 @@ author:
 
     - label        : "Facebook"
       icon         : "fab fa-fw fa-facebook-square"
-      #url          : "https://www.facebook.com/kunwarv4/"
+      #url         : "https://www.facebook.com/kunwarv4/"
 
 # Site Footer
 footer:
