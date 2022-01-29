@@ -11,19 +11,19 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Vivek Kumar Singh | PhD*"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Vivek Kumar Singh"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://vsrana-ai.github.io"    # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "vsrana-ai/vsrana-ai.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -102,30 +102,88 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Vivek Kumar Singh"
+  avatar           : "/assets/images/vivek.png"
+  bio              : "Marie Sklodowska-Curie Researcher"
+  location         : "Eindhoven, NL"
   email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+  links            : 
+    - label        : "Gmail"
+      icon         : "fab fa-google"
+      url          : "mailto:vivekkumar0416@gmail.com"
+
+    - label        : "Email-UniCa"
+      icon         : "fas fa-at"  #"fas fa-envelope"
+      url          : "mailto:vivek.kumar@unica.it"
+
+    - label        : "Email-Phiilps"
+      icon         : "fas fa-at" 
+      color        : "red"
+      url          : "mailto:vivek.kumar_1@philips.com"
+
+    - label        : "Google Scholar"
+      icon         : "fas fa-graduation-cap"
+      #icon         : "fas fa-googlescholar"
+      url          : "https://scholar.google.com/citations?user=A6A4OKoAAAAJ&hl=en"
+
+    - label        : "Scopus"
+      icon         : "fas fa-graduation-cap"
+      url          : "https://www.scopus.com/authid/detail.uri?authorId=57203288774"
+
+    - label        : "DBLP"
+      icon         : "fas fa-graduation-cap"
+      url          : "https://dblp.org/pid/82/2381-7.html" 
+
+    - label        : "Publons"
+      icon         : "fas fa-graduation-cap"
+      url          : "https://publons.com/researcher/1799316/vivek-kumar/"
+
+      # with their icons
+
+    - label        : "ResearchGate"
+      icon         : "fab fa-researchgate"
+      url          : "https://www.researchgate.net/profile/Vivek_Kumar227"
+
+    - label        : "Linkedin"
+      icon         : "fab fa-linkedin-in"
+      url          : "https://www.linkedin.com/in/vivek-kumar-singh-44011683/"
+
+    - label        : "Github"
+      icon         : "fab fa-github"
+      url          : "https://github.com/vsrana-ai"
+
+    - label        : "ORCID"
+      icon         : "fab fa-orcid" 
+      url          : "https://orcid.org/0000-0003-3958-4704"
+
+    - label        : "CV"
+      icon         : "fa fa-address-card"
+      url          : 
+      
+      # without original icons 
+
+    - label        : "Publons"
+      icon         : "fab fa-publons"
+      url          : "https://publons.com/researcher/1799316/vivek-kumar/"
+
+    - label        : "Scopus"
+      icon         : "fab fa-scopus"
+      url          : "https://www.scopus.com/authid/detail.uri?authorId=57203288774"
+
+     #Social Media 
+
+    - label        : "Twitter"
+      icon         : "fab fa-fw fa-twitter-square"
+      url          : "https://twitter.com/kunwar_vsrana"
+
+    - label        : "Instagram"
+      icon         :  "fab fa-fw fa-instagram"
+      url          : "https://instagram.com/"
+
+    - label        : "Facebook"
+      icon         : "fab fa-fw fa-facebook-square"
+      url          :
+
 
 # Site Footer
 footer:
