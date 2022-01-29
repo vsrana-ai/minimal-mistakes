@@ -6,6 +6,8 @@ main:
     url: /publications/
   - title: "Education"
     url: /education/
+    - title: "Research Activities"
+    url: /Research Activities/
   - title: "Collaborations"
     url: /collaborations/
   - title: "Awards"
