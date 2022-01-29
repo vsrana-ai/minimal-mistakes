@@ -126,6 +126,17 @@ author:
       #icon         : "fas fa-googlescholar"
       url          : "https://scholar.google.com/citations?user=A6A4OKoAAAAJ&hl=en"
 
+      # with their icons
+
+    - label        : "ResearchGate"
+      icon         : "fab fa-researchgate"
+      url          : "https://www.researchgate.net/profile/Vivek_Kumar227"
+
+    - label        : "ORCID"
+      icon         : "fab fa-orcid" 
+      color        : "red"
+      url          : "https://orcid.org/0000-0003-3958-4704"
+
     - label        : "Scopus"
       icon         : "fas fa-graduation-cap"
       url          : "https://www.scopus.com/authid/detail.uri?authorId=57203288774"
@@ -137,54 +148,32 @@ author:
     - label        : "Publons"
       icon         : "fas fa-graduation-cap"
       url          : "https://publons.com/researcher/1799316/vivek-kumar/"
-
-      # with their icons
-
-    - label        : "ResearchGate"
-      icon         : "fab fa-researchgate"
-      url          : "https://www.researchgate.net/profile/Vivek_Kumar227"
-
-    - label        : "Linkedin"
-      icon         : "fab fa-linkedin-in"
-      url          : "https://www.linkedin.com/in/vivek-kumar-singh-44011683/"
-
+      
     - label        : "Github"
       icon         : "fab fa-github"
       url          : "https://github.com/vsrana-ai"
 
-    - label        : "ORCID"
-      icon         : "fab fa-orcid" 
-      color        : "red"
-      url          : "https://orcid.org/0000-0003-3958-4704"
-
-    - label        : "CV"
-      icon         : "fa fa-address-card"
-      url          : 
+    - label        : "Linkedin"
+      icon         : "fab fa-linkedin-in"
+      url          : "https://www.linkedin.com/in/vivek-kumar-singh-44011683/"
       
-      # without original icons 
-
-    - label        : "Publons"
-      icon         : "fab fa-publons"
-      url          : "https://publons.com/researcher/1799316/vivek-kumar/"
-
-    - label        : "Scopus"
-      icon         : "fab fa-scopus"
-      url          : "https://www.scopus.com/authid/detail.uri?authorId=57203288774"
-
-     #Social Media 
-
     - label        : "Twitter"
       icon         : "fab fa-fw fa-twitter-square"
       url          : "https://twitter.com/kunwar_vsrana"
 
+    - label        : "CV"
+      icon         : "fa fa-address-card"
+      url          : 
+
+     #Social Media 
+
     - label        : "Instagram"
       icon         :  "fab fa-fw fa-instagram"
-      url          : "https://instagram.com/"
+      #url          : "https://instagram.com/"
 
     - label        : "Facebook"
       icon         : "fab fa-fw fa-facebook-square"
-      url          : "https://www.facebook.com/kunwarv4/"
-
+      #url          : "https://www.facebook.com/kunwarv4/"
 
 # Site Footer
 footer:
