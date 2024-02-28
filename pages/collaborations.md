@@ -8,9 +8,6 @@ title: Collaborations
 
 ## Memberships
 
-%### [HRI Lab@UNICA](http://hri.unica.it/)
-
-%HRI Lab is a laboratory of **Human-Robot Interaction** at the University of Cagliari and in collaboration with [R2M Solution s.r.l.](http://www.r2msolution.com/) whose research and development activities %are dedicated to the understanding, designing, and evaluating of several robotic platforms which employ different research technologies (e.g. Sentiment Analysis, Semantic Web, Deep Learning, Big Data, %Sensors, Computer Vision, Natural Language Processing) when interacting with humans.
 
 ### [AIBD](https://aibd.unica.it/)
 
